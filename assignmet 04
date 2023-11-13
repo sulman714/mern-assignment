@@ -1,0 +1,39 @@
+Q1) ASCII character set VS UTF 8 character set VS UTF 16 character set?
+ans) when it comes to character sets, ASCII,UTF-8, and UTF-16 are all encoding standards. ASCII is the oldest and simplest,usimg 7 bits to represent characters. UTF-8 is a variable-length encoding that can represent any unicode character, using 1-4 bits. UTF
+-16is also a variable-length encoding, but it uses 2or4 bytes to represent characters. both UTF-8 and UTF-16 can handle a wider range of characters compare to ASCII.
+
+1) ASCII:-(AMERICAN STANDARD CODE FOR INFORMATION INTERCHANGE):- ASCII is the oldest character encoding standard and uses 7 bits to represent characters. it orinally included only english characters,numbers,and basic saymbols. ASCII can represent a total of 128 characters
+2) UTF-8 ( unicode transformation format-8) :- UTF-8 is a variable-length character encoding that can represent any unicode character. it uses 1-4 bytes to encode characters,depending on there complexity.UTF-8 is widely used on the internet and can represent a vast range of characters from different languages and scripts.
+3) UTF-16 ( unicode transformation format-16) :- UTF-16 is a variable-length character ancoding that can that represent any unicode character. it uses 2 or 4 bytes to encode characters. UTF-16 is commonly used in applications and programming languages that require support for characters outside the ASCII range .
+
+Q2) WHAT IS SEARCH ENGINE OPTIMISATION (SEO)?
+ANS) SEO stands for SEARCH ENGINE OPTIMISATION. it is the practiced of optimizing websites and content to improve their visibility and rankings on search engine results pages. By using various techniqyes like keyword reserch,om-page optimization, and link building,SEO aims to increase organic (non-paid) traffic to a website. it helps websites appear higher in search engines results, makingh it easier for people to find them. it is an important strategy for businesses and websites owners to arttracts more visitors and poitentioal customers.
+SEO includes various techniques such as keywords research,optimizing meta tags,creating high quality content and building blacklinks from other websites. The goals is to make your website more attractive to search engines, so they rank it higher and more people can discover it.it is ongoing process that requires contineous effort and monitorig.
+
+Q3} difference between framework and API?
+ANS} a framework is a pre-built structure or foundation that provides a set of tools,;ibraries,and guidelines for developing software applications. it offers a structure and a set of rules to follow , making it easier to build applications by providing reuseable codes and predefined functionalities. developers can use a framework to streamline their development process and focus more on the specific featres of their application rather than starting from scratch.
+on the other hand,
+an API (application programming interface) is a set of rules and protocols that allows different software applications to communicate and interact with each other. APIs define how different software components should interact and what data can be exchanged between them. They provide a way for developers to acces the functionality of a specific software or service without needing to understand or modify its umderlying code.
+
+Q4) Short introduction on BOOTSTRAP?
+Ans) Bootstrap is a  popular front-end framework that helps developers build responsive and mobile-friendly websites and web applications. It provides a collections of pre-built HTML,CSS, and JAVASCRIPT components,such as navigation bars,buttons,forms,and grids, thatt can be easily customized and integrated into your project. Bootstrap also offers a responsive grid system, which allows you to create layouts automatically adjust to different screen sizes. it is a great tools for speeding up the development process and ensuring a consistent and professional look for your websites.
+
+Q5) Short introduction on FOUNDATION?
+Ans) foundation is another popular front-end framework that helps developers build responsive and customizable wesites and web applications. It provides a comprehensive set of HTML,CSS, and JavaScripsts components , similar to Bootstraps, that can easily integrated intp into your project. Foundation offers a responsive grid system, as well as a wide range of UI elements like navigation menus,buttons,forms,and more. It also has built-in support for accessibility and includes advanced features like responsive typography and motion UI. Foundation is known for its flexibility and scalability,allowing developers to create to create unique and visually appealing websites. 
+
+Q6) short introduction SKELETON?
+Ans) Skeleton is a lightweight CSS framework that provides a simple and responsive grid system, making it easy to create clean and minimalistic websites. It focuses on providing a basic structure and layout for web pages without overwhelming you with too many pre-designed styles and components. skeleton is great for projects that require a lightweight frameworek and a lot of customization felexibility. it is easy to learn and use, making it a popular choice for developers who prefer a more minimalistic approach to web design.
+
+Q7) Short introduction miligram?
+Ans) miligram is a lightweught CSS framework that focuses on simmplicity and minimalism. it provides a minimal set of styles and componemts to help you quickly build responsive and clean websites. Milligram follows a mobile-first approach, making it easy to create websites that look great on all devices. It also offers a responsive grid system and a variety of pre-styled components like buttons,forms, and typography. If you are loooking for a lightweight and straightforward CSS framework, Milligram could be a great choiice for your projects.
+
+Q8) Short introduction ULKIT?
+Ans) When it comes to front-end frameworks, another grat option is ULKIT. It is a lightweight and modular framework that provides a wide range of pre-built components and styles for building responsive websites and web applications. ULKIT offers a comprehensivee set of UI elements, such as navigation bars, buttons,forms,grids,and more,that can be easily customized to fit your project's needs. It also includes a responsive grid system 
+and supports a variety of JavaScripts plugins for enhanced functionality.
+
+Q9) Short introduction material design lite?
+Ans) MDL is a front-end framework developed by google that allows you to easily incorprate material design principles into your websites. It provides a set of CSS and JavaScripts components that you can use to create a visually appealing and responsive user interface. MDL focuses on simplicity and performance,making it a great choice for projects where you want to achieve a clean and modern look. With MDL,you can easily add buttons ,cards ,navigation menus,and other Material Design elements to your website. It is a fantastic tool  for creating intuitive and  visually appealing user experiences.
+
+Q10) Short introduction SYSY?
+Ans) SUSY is a powerful grid system for sass that allows you to create flexible and responsive layouts with ease. It gives you full controll over your grid structure, allowing yu to define custom breakpoints,column widths, and gutter sizes. Susy is highly customizable and works well with other Sass frameworks or standalone projects.IT is a great choice if you are looking for a flexible and lightweight grid system that empowers you to create unique and responsive designs.
+
