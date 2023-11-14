@@ -1,0 +1,36 @@
+Q1) WEB CRAWLER?
+Ans) a web crawler also known as a spider bot,is a prtogram that systematically browses the internet to discover and index web pages. It follows links,collects data, and helps search engines like google build their index of web content.it is like a digital explorer mapping out the vast web.
+web crawlers have several functions. they are primarily used by search engines to discover and index web pages.they follow links from one page to another , collect information from those pages,and store it in a data base. this allows search engines to provide relevant search results to users. web crawlers also help in analyzing websites structure,identifying broken links,and monitoring changes on websites.they play crucial role in keeping search engine results up to date and ensuring that users can find the information they arew looking for.\
+
+Q2) DIgital softwares used for mockup?
+Ans) there are several digital softwares tools you can use for creating mockups.Some popular ones include Adobe XD, Sketch,Figma<and InVision. These tools nprovide a user-friendly interface and various features to help you bndesigh=n and visualize your ideas. 
+
+Q3) What is DOM?
+ Ans) The Document Object Model (DOM) is a programming interface foer HTML and XML documents. It Represents the structure of a web page as a tree-like structure,where each element on pagers is a node in the tree. this allows developers to access and manipulate the content,strucrture, and style of a web page using programming languages like JavaScript.It is like a way for programs to in teract with and modify the elements of a web page.
+
+Q4) Software tools used for prototype?
+Ans) when it comes to prototying, there are several softwares tools that can use. Some popular ones include Adobe XD, Sketch< Figma , and InVIsion. these tools provide a user-friendly interface and a range of features to help you create interactive and visualluy appealing prototypes. They allow ypou design ands test yournideas before moviong on to the development phase. 
+
+Q5) Difference between raster graphics and vector graphics?
+Ans) the main difference between raster graphics(also known as bitmap or pixel-based graphics) and vector graphics is how they are constructed and displayed.
+RASTER GRAPHICS are made up of a grid of individual pixels, where each pixel contains color information. When ypouo zoom in opn as raster image,you can see the individual pixels,and if you try to resize it,it may lose quality and appear pixelated.
+On the other hand,      VECTOR GRAPHICS are created using mathematicals formulas that define shapes,lines, and curves. They are resolution-independent, meaning they can be scaled up or down without losing quality. No matter how much you zoom in or resize a vector image, it will always maintain crisp and smooth edges.
+So, in sumarry, raster graphicsd are made up of pixels and are best for detailed images like photographs, while vector graphics are made upm of mathematical formulas and are greaty for illustrations, logos,and other scalable graphics.
+
+Q6)  What is WHATWG?
+Ans) the WHATWG stands for the Web Hypertext Application Technology Working Group. It is a community-driven organization that focuses on ther development and standardization of web technologies. The WHATWG is responsible for the ongoing development of HTML, the core language of the web,and related APIs. They work to ensure that web standards are practical and meet the needs of developers and users alike. It is pretty cool how they contribute to the evolution of the web.
+
+Q7) What is SVG?
+Ans) SVG stands for Scalable Vector Graphics. It is a file format used for displaying vector graphics. It is a file format used for displaying vector graphics on the web. SVG files are written in XML , which allows for scalable and resolution-independent graphics. Unlike raster images, SVG graphiics can be scaled up or down without losing quality. They are  great for creating logos , icons, adn other graphics that need to be flexible in size. SVG's can be created and edited using various design software or even with code. Its a versatile format for creating visually appealing and interactive web graphics.
+
+Q8) What is VML?
+Ans) VML stands for vectore makeup language. It is an XML-based file format used fro representing vector graphics in web browsers that don't supporty SVG. VML was primarily used in older versions of the internet explorer. However, with widespread adoptation of modern web standards, including SVG,VML has become less commmonly used. SVG is now the preffered format for vector graphics on the web, as it offers better compatibilty and ,ore advanced features.
+
+Q9) What is silverlight?
+Ans) Silverlight  is a web application framework developed by microsoft. it was designed to creat rich internet applications and multimedia experiences. Silverlight allowed developers to creat interactive and visually appealing content that could run on multiple platforms and browsers. However, Microsoft ende suopport for silverlight in 2021, and it is no longer widely used. Nowadays, web technologies like HTML5,CSS, and JavaScripts are more commonly used for creating dynamic and interactive web experinces.
+
+Q10) What is Site Audit?
+A Site Audit , alsao known as website audit, is a process of evaluting a websites performance, structure , and overall health. It involves analyzing various aspects of the ebssite, such as its technical  setup, on-page and off-page SEO factors, user experince, and content quality. The goal of a site audit is ti identify any issues or ares fir improvment that may be impacting the website''s visibility, performannce, or user engagement. it is likje giving your website a check-up to make sure everything is brunning smoothly andc optimized for success.
+
+Q11) HOW WEB CRAWLER WORKS?
+aNS) a WEB CRAWLER, also known as a web spider or web robot, is a program that systematically browses the internet to discover and index web pages. It starts by visiting a seed nURL and then follows  links on that page to other pages, creating a network of interconnected web pages. the crawler collects information from each visited page, such as the URL, content,and metadata, adn stores it in a database or index. This data is then used by search engines to provide relevant search results when you enter a query. Web crawlers play a crucial role in the discovery and organization of web content.
